@@ -47,6 +47,11 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        vpn: {
+          connected: "hsl(var(--vpn-connected))",
+          connecting: "hsl(var(--vpn-connecting))",
+          disconnected: "hsl(var(--vpn-disconnected))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
